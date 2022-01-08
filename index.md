@@ -7,7 +7,7 @@
 Bu sayfa içerisinde
 * Derslere ait repositoryler
 * Ödevle
-* Duyurular
+* Duyurular 
 Paylaşılmaktadır.
 
-sayfa yönetimi[ RECEP KAMİL MERTER ](20215070032.github.io) tarafından yapılmaktadır. 
+ Sayfa yönetimi[Recep Kamil MERTER](https://20215070032.github.io/) tarafından yapılmıştır.
